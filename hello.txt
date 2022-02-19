@@ -5,4 +5,4 @@ conflict test (by git)
 conflict test (by github)
 merge done
 push test02
-
+pull test02
