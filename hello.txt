@@ -6,3 +6,5 @@ conflict test (by github)
 merge done
 push test02
 pull test02
+
+git diff test
